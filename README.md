@@ -15,6 +15,7 @@
     <li><strong>Uses MongoDB Atlas as the database</strong> 🗄️</li>
     <li><strong>CI/CD automation with GitHub Actions</strong> 🤖</li>
     <li><strong>ESLint integration for code quality enforcement</strong> ✅</li>
+    <li><strong>✅ Automated cleanup with Serverless Prune Plugin 🧹</li>
   </ul>
 
   <h2>CI/CD Integration 🤖</h2>
