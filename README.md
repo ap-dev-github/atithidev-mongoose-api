@@ -28,6 +28,7 @@
     <li><strong>Dependency Installation:</strong> 📦 Only production dependencies (<code>--production</code> flag) are installed to optimize the deployment package.</li>
     <li><strong>Deployment:</strong> 🚀 The <strong>Serverless Framework</strong> deploys the application to <strong>AWS Lambda</strong> if all checks pass.</li>
     <li><strong>Secure Credentials:</strong> 🔐 AWS credentials (<code>AWS_ACCESS_KEY_ID</code> and <code>AWS_SECRET_ACCESS_KEY</code>) are securely managed using <strong>GitHub Secrets</strong>.</li>
+    <li><strong>Pruning Old Versions: 🧹 The Serverless Prune Plugin is installed as a dependency and runs automatically to remove outdated versions from AWS S3, optimizing storage and cost.</strong>.</li>
   </ol>
 
   <h4>Benefits of CI/CD Automation:</h4>
